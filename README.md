@@ -14,5 +14,5 @@ This is a fully responsive portfolio website built to showcase my skills and exp
 
 ##  Contact
 **Email:** mirsini.kafetsi@gmail.com  
-**LinkedIn:** [linkedin.com/in/myrsini-kafetsi]
+**LinkedIn:** [Myrsini Kafetsi](linkedin.com/in/myrsini-kafetsi)
 
