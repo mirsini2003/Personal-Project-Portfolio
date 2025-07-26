@@ -10,7 +10,7 @@ This is a fully responsive portfolio website built to showcase my skills and exp
 - **HTML5 & CSS3**
 
 ## Live Demo
-[https://personal-project-portfolio-eta.vercel.app/]
+[Personal Portfolio Live Demo](https://personal-project-portfolio-eta.vercel.app/)
 
 ##  Contact
 **Email:** mirsini.kafetsi@gmail.com  
